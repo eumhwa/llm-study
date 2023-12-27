@@ -1,0 +1,12 @@
+#jupyterlab
+torch
+transformers
+einops
+python-dotenv
+bitsandbytes
+faiss-cpu
+sentence_transformers
+accelerate
+openai==1.6.1
+tiktoken
+chromadb
